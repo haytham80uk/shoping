@@ -1,0 +1,13 @@
+{
+	"name": "shopping",
+	"version": "0.0.1",
+	"description": "Application to get the purchase the item using virtual store/supermarket ",
+	"main": "./shopping.json",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/haytham80uk/shoping"
+	},
+	"dependencies": {
+		"system-runtime": "^1.9.1"
+	}
+}
